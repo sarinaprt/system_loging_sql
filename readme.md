@@ -1,21 +1,38 @@
-# Project Overview
+# User Management & Sound Playback System
 
-⚠️ **This project is still in progress.**
+A simple Python application for user management, sound playback, and basic utilities like a calculator and daily notes.
 
-There are two main parts in this project:
+## Features
 
-1. **system_log_notpade**
-   - Contains two `.txt` files.
+- User registration and login
+- Password change
+- View user ID and play associated sound
+- Simple calculator
+- Daily note management
+- Audio playback based on user ID
 
-2. **system_log_sql**
-   - Includes two SQL files:
-     - `DDL` (Data Definition Language)
-     - `DML` (Data Manipulation Language)
+## Installation
 
-## 🔐 Project Description
+1. Clone the repository:
+git clone https://github.com/yourusername/your-repo.git
+cd your-repo
 
-This project is designed to handle **user login and access control** for a calculator application.
 
-- When a new user attempts to access the application for the first time, their credentials are stored in the user database.
-- If the user already exists, they can log in by providing a valid username and password.
-- The system ensures that only registered users with valid credentials can access the calculator,calender functionality.
+# سیستم مدیریت کاربر و پخش صدا
+
+یک برنامه ساده پایتون برای مدیریت کاربران، پخش فایل‌های صوتی و ابزارهای پایه‌ای مانند ماشین‌حساب و یادداشت روزانه.
+
+## ویژگی‌ها
+
+- ثبت نام و ورود کاربران
+- تغییر رمز عبور
+- مشاهده شناسه کاربری و پخش فایل صوتی مرتبط
+- ماشین‌حساب ساده
+- مدیریت یادداشت‌های روزانه
+- پخش صدا بر اساس شناسه کاربر
+
+## نصب
+
+1. کلون کردن مخزن:
+git clone https://github.com/yourusername/your-repo.git
+cd your-repo
