@@ -17,6 +17,8 @@ A simple Python application for user management, sound playback, and basic utili
 git clone https://github.com/yourusername/your-repo.git
 cd your-repo
 
+---
+
 
 # سیستم مدیریت کاربر و پخش صدا
 
